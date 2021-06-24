@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "993179716572",
+    "firebase_url": "https://sontiichatapp-fe9bd-default-rtdb.firebaseio.com",
+    "project_id": "sontiichatapp-fe9bd",
+    "storage_bucket": "sontiichatapp-fe9bd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:993179716572:android:a2c0cd9c1da47eaa0a5d19",
+        "android_client_info": {
+          "package_name": "com.example.sontiichatappp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "993179716572-v4p0vbetod42afmq0ne7cbast59eijsg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sontiichatappp",
+            "certificate_hash": "836e22b77498efb074001affc2b73d1f3253c6f0"
+          }
+        },
+        {
+          "client_id": "993179716572-5v3l26u59ieif452k0tticlp8kuh5j0r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASDtC7SQiHN5OZytCjSv73sRBQPzqZIiw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "993179716572-5v3l26u59ieif452k0tticlp8kuh5j0r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

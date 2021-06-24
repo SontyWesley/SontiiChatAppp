@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SontiiChatAppp</string>
+    <string name="string_enter_a_random_username">\@string/enter_a_random_username</string>
+    <string name="wesleychatapp">WesleyChatApp</string>
+    <string name="string_wesleychat">\@string/WesleyChat</string>
+    <string name="enter_a_random_username" />
+    <string name="wesley_chat">wesley_chat</string>
+</resources>
